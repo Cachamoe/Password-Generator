@@ -1,5 +1,5 @@
-# Horiseon Social Solution Services
-![GitHub Logo](./assets/images/social-media-marketing.jpg)
+# Password Generator
+![](./assets/images/social-media-marketing.jpg)
 ## Overview
 I refractored the code given the acceptance criteria: 
 
