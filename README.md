@@ -1,7 +1,7 @@
 # Password Generator
 ![](./assets/images/social-media-marketing.jpg)
 ## Overview
-I did this assignment given the acceptance criteria: 
+I completed this assignment given the acceptance criteria: 
 
 
 ```
