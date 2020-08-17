@@ -1,30 +1,35 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
+
 // Write password to the #password input
-function writePassword() {
+function writePassword() 
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
 
-}
-
+  
 // Add event listener to generate button
   generateBtn.addEventListener("click", writePassword); 
+
 
 // Prompt for length of password
   var passlength = prompt("Password length between 8-128 characters"); {
     if (passlength < 8 || passlength > 128) alert("Error");
+    else (console.log(passlength));
   }   
+
 
 // Prompt for character types
   var passtype = prompt("Chose lowercase, uppercase, numbers, special, or characters for all"); {
-   (passtype =[lowercase, uppercase, numbers, special, characters]);
+   if (passtype === ([characters], [lowercase], [uppercase], [numbers], [special])) console.log(passtype);
+    else alert("Error");
   }
 
+// Criteria for generating password
   if (passlength && passtype === true); {
-    writePassword() && alert(password);
+    writePassword();
   }
 
 
