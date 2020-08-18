@@ -1,7 +1,7 @@
 # Password Generator
 ![](https://github.com/Cachamoe/Password-Generator/blob/master/Assets/Screen%20Shot%202020-08-18%20at%2012.23.59%20PM.png)
 ## Overview
-Thie is my password generator! 
+## This is my password generator! 
 
 I completed this assignment given the acceptance criteria: 
 
