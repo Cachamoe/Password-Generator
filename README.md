@@ -23,8 +23,8 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Website Features
-1)  
-2) 
+1) Buttons that allow for the user to check whick criteria they want to use for the password
+2) Once the generate password button is clicked, 
 3) 
 4) 
 
