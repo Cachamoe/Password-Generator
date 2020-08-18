@@ -1,10 +1,10 @@
-  // Arrays for randomization 
+  // Create Button 
 
   var generateBtn = document.querySelector("#generate");
   generateBtn.addEventListener("click", generatePassword);
   function generatePassword() {
 
-  // Declare valuables    
+  // Arrays for randomization  
 
   var lowercase = ["abcdefghijklmnopqrstuvwxyz"];
   var uppercase = ["ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
