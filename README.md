@@ -1,5 +1,5 @@
 # Password Generator
-![](/Users/snipperdoodle/Desktop/Repos/Password-Generator/Assets/Screen Shot 2020-08-18 at 12.23.59 PM.png)
+![](https://github.com/Cachamoe/Password-Generator/blob/master/Assets/Screen%20Shot%202020-08-18%20at%2012.23.59%20PM.png)
 ## Overview
 I completed this assignment given the acceptance criteria: 
 
