@@ -1,6 +1,8 @@
 # Password Generator
-![](./assets/images/social-media-marketing.jpg)
+![](https://github.com/Cachamoe/Password-Generator/blob/master/Assets/Screen%20Shot%202020-08-18%20at%2012.23.59%20PM.png)
 ## Overview
+ This is my password generator! 
+
 I completed this assignment given the acceptance criteria: 
 
 
@@ -23,10 +25,9 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Website Features
-1)  
-2) 
-3) 
-4) 
+1) Buttons that allow for the user to check which criteria they want to use for the password
+2) Once the generate password button is clicked, a prompt arises that asks the user for how long they want the password to be
+3) Password length options range from 8 to 128 characters
 
 ## Programs 
 HTML, CSS, Javascript
