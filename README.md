@@ -2,7 +2,7 @@
 ![](https://github.com/Cachamoe/Password-Generator/blob/master/Assets/Screen%20Shot%202020-08-18%20at%2012.23.59%20PM.png)
 ## Overview
  This is my password generator! 
-Here is a link to the deployed webpage: [](https://cachamoe.github.io/Password-Generator/)
+Here is a link to the deployed webpage: ![](https://cachamoe.github.io/Password-Generator/)
 
 I completed this assignment given the acceptance criteria: 
 
