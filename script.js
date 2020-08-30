@@ -1,8 +1,8 @@
-  // Create Button 
+// Create Button 
 
-  var generateBtn = document.querySelector("#generate");
-  generateBtn.addEventListener("click", generatePassword);
-  function generatePassword() {
+var generateBtn = document.querySelector("#generate");
+generateBtn.addEventListener("click", generatePassword);
+function generatePassword() {
 
   // Arrays for randomization  
 
@@ -16,6 +16,9 @@
   var passlength = prompt("Password length between 8-128 characters"); {
     if (passlength < 8 || passlength > 128) alert("Error");
     else (console.log(passlength));
+  }
+    if (passlength < 8 || passlength > 128) {
+    generateBtn.addEventListener("fullscreenerror")
   }
   // Get id's for imputs
 
@@ -56,4 +59,4 @@
 
 
   return generatingpassword;
-  }
+}
