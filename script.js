@@ -17,7 +17,7 @@ function generatePassword() {
     if (passlength < 8 || passlength > 128) alert("Error");
     else (console.log(passlength));
   }
-    if (passlength < 8 || passlength > 128) {
+  if (passlength < 8 || passlength > 128) {
     generateBtn.addEventListener("fullscreenerror")
   }
   // Get id's for imputs
@@ -50,13 +50,10 @@ function generatePassword() {
 
   for (var i = 0; i < passlength; i++) {
     generatingpassword += userpassword.charAt(Math.floor(Math.random() * userpassword.length));
-
   }
 
   // Display value of new password
 
   document.getElementById("password").value = generatingpassword;
-
-
   return generatingpassword;
 }
