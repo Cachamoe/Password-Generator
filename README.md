@@ -3,7 +3,7 @@
 ## Overview
  This is my password generator! 
 
- Here is a link to the deployed webpage: [https://cachamoe.github.io/Password-Generator/](https://cachamoe.github.io/Password-Generator/)
+ Here is a link to the deployed webpage: [https://cachamoe.github.io/Password-Generator/]
 
 I completed this assignment given the acceptance criteria: 
 
