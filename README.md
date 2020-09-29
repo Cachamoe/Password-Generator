@@ -27,9 +27,9 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Website Features
-1) Buttons that allow for the user to check which criteria they want to use for the password
+1) Check boxes that allow for the user to select which criteria they want to use for the password
 2) Once the generate password button is clicked, a prompt arises that asks the user for how long they want the password to be
-3) Password length options range from 8 to 128 characters
+3) Password length ranges from 8 to 128 characters
 
 ## Programs 
 HTML, CSS, Javascript
