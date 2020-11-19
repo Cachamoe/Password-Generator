@@ -34,5 +34,8 @@ THEN the password is either displayed in an alert or written to the page
 ## Programs 
 HTML, CSS, Javascript
 
+## License 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 ## Author/s
 Caleb Chaney
