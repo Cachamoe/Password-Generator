@@ -31,7 +31,7 @@ THEN the password is either displayed in an alert or written to the page
 2) Once the generate password button is clicked, a prompt arises that asks the user for how long they want the password to be
 3) Password length ranges from 8 to 128 characters
 
-## Programs 
+## Technologies 
 HTML, CSS, Javascript
 
 ## License 
